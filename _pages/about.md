@@ -14,8 +14,6 @@ I'm an Earth Observation Project Developer at the Atlantic International Researc
 
 My career objective is to connect cutting-edge technologies, data, ideas, and people to drive innovation and make a positive change. I have gained over two years of professional experience in the space industry, including an internship at the European Space Agency and my current position at the EO Lab, established as an ESA Laboratory.
 
-In my role, I apply my interdisciplinary skills to a blend of technical, scientific, industrial, and outreach activities. I manage and develop projects related to Earth Observation, Internet-of-Things, and NewSpace. Additionally, I serve on the organizing committee of JuliaEO – Global Workshop on Earth Observation with Julia and advocate for using this high-performance programming language within the geospatial community.
-
 My interests include:
 
 * Earth Observation 
