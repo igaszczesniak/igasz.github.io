@@ -11,10 +11,10 @@ redirect_from:
 
 ### Education
 
-* Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *2023 - Present*.
-* Geoinformatics (Erasmus+ exchange year abroad), **Aalto University**, Finland, *2021 - 2022*.
-* MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *2021 - 2022*.
-* BSc in Geodesy, Surveying and Cartography, **AGH University of Science and Technology in Krakow**, Poland, *2017 - 2021*.
+* Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *May 2023 - Present*.
+* Geoinformatics (Erasmus+ exchange year abroad), **Aalto University**, Finland, *September 2021 - June 2022*.
+* MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *February 2021 - June 2022*.
+* BSc in Geodesy, Surveying and Cartography, **AGH University of Science and Technology in Krakow**, Poland, *September 2017 - February 2021*.
 
 ### Work experience
 
@@ -64,15 +64,15 @@ redirect_from:
 
 * Introduction to Julia (for programmers), JuliaAcademy, *17 August 2022*.
 
-* Echoes in Space - Introduction to Radar Remote Sensing, ESA Academy, *July 2022*.
-
 * InnEO Summer School on Machine Learning in Earth Observation and soft skills, *25 - 29 July 2022*.
+
+* Echoes in Space - Introduction to Radar Remote Sensing, ESA Academy, *11 July 2022*.
 
 * UNIVERSEH Startech training, an entrepreneurship training program based on the use of Earth Observation data, University of Touluse, France, *4 - 8 October 2021*.
 
 ### Honors & awards 
 
-* 1st prize in the Geodata - Applied Innovation Contest [Link](https://geod.agh.edu.pl/index.php?option=com_content&view=article&id=1262:nasi-studenci-laureatami-konkursu-geodata-applied-innovation&catid=13:pracownicy&Itemid=300&lang=pl).
+* 1st prize in the Geodata - Applied Innovation Contest [[Link]](https://geod.agh.edu.pl/index.php?option=com_content&view=article&id=1262:nasi-studenci-laureatami-konkursu-geodata-applied-innovation&catid=13:pracownicy&Itemid=300&lang=pl).
   * Led a team of four in developing a prototype product for sea ice and iceberg detection, which won first place in a student start-up competition. Successfully pitched the presentation to a panel of judges composed of experts from the space sector, demonstrating its feasibility and market relevance.
 
 ### Mentoring 
