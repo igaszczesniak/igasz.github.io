@@ -72,7 +72,7 @@ redirect_from:
 
 ### Honors & awards 
 
-* 1st prize in the Geodata - Applied Innovation Contest [[Link]](https://geod.agh.edu.pl/index.php?option=com_content&view=article&id=1262:nasi-studenci-laureatami-konkursu-geodata-applied-innovation&catid=13:pracownicy&Itemid=300&lang=pl).
+* 1st prize in the Geodata - Applied Innovation Contest [[Link](https://geod.agh.edu.pl/index.php?option=com_content&view=article&id=1262:nasi-studenci-laureatami-konkursu-geodata-applied-innovation&catid=13:pracownicy&Itemid=300&lang=pl)].
   * Led a team of four in developing a prototype product for sea ice and iceberg detection, which won first place in a student start-up competition. Successfully pitched the presentation to a panel of judges composed of experts from the space sector, demonstrating its feasibility and market relevance.
 
 ### Mentoring 
