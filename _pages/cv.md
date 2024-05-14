@@ -11,7 +11,7 @@ redirect_from:
 
 ### Education
 
-* Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *May 2023 - Present*.
+* Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *May 2023 - May 2024*.
 * Geoinformatics (Erasmus+ exchange year abroad), **Aalto University**, Finland, *September 2021 - June 2022*.
 * MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *February 2021 - June 2022*.
 * BSc in Geodesy, Surveying and Cartography, **AGH University of Science and Technology in Krakow**, Poland, *September 2017 - February 2021*.
@@ -20,7 +20,7 @@ redirect_from:
 
 * **Atlantic International Research Centre**, Earth Observation Project Developer, *August 2022 - Present*
   * Develop workflows and early prototypes for processing, analyzing and visualizing satellite and IoT datasets.
-  * Perform outreach, disseminate project results, and collaborate with key stakeholders and end users.
+  * Perform outreach, disseminate project results, and engage with key stakeholders and end users.
   * Serve on the organizing committee of the JuliaEO - Global Workshop on Earth Observation with Julia.
 
 * **Institute of Meteorology and Water Management (IMGW-PIB)**, Intern in the Remote Sensing Centre, *September 2021*
@@ -33,16 +33,14 @@ redirect_from:
   
 ### Skills
 
+* Qualitative and quantitative research
+* Data science
+* Data visualization
+* Business development and market research
 * Project management
   * Stakeholders engagement
   * Strategic partnerships
-  * Agile ways of working
-* Qualitative and quantitative analysis
-* Julia programming language
-  * Data science
-  * Data visualization
-* Design thinking
-* Business analysis and market research
+  * Design thinking process
 
 ### Talks
 
@@ -64,7 +62,7 @@ redirect_from:
 
 * Introduction to Julia (for programmers), JuliaAcademy, *17 August 2022*.
 
-* InnEO Summer School on Machine Learning in Earth Observation and soft skills, *25 - 29 July 2022*.
+* InnEO Summer School on Machine Learning in Earth Observation and Soft Skills, *25 - 29 July 2022*.
 
 * Echoes in Space - Introduction to Radar Remote Sensing, ESA Academy, *11 July 2022*.
 
