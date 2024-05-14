@@ -13,7 +13,7 @@ redirect_from:
 
 * Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *May 2023 - May 2024*.
 * Geoinformatics (Erasmus+ exchange year abroad), **Aalto University**, Finland, *September 2021 - June 2022*.
-* MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *February 2021 - June 2022*.
+* MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *February 2021 - July 2022*.
 * BSc in Geodesy, Surveying and Cartography, **AGH University of Science and Technology in Krakow**, Poland, *September 2017 - February 2021*.
 
 ### Work experience
@@ -27,7 +27,7 @@ redirect_from:
   * Worked on the algorithm for detecting flooded areas and ice in rivers using SAR data.
 
 * **European Space Agency**, Intern in the Future Systems Department, *February - July 2021*
-  * Conducted a socio-economic analysis of the Earth observation market.
+  * Conducted a socio-economic analysis of the Earth Observation market.
   * Investigated the main users and usages of Copernicus Sentinels data products and future products from high-priority candidate missions.
   * Developed a comprehensive database of over 300 relevant value-added products, including interactive data visualizations and a report that allowed for enhanced analysis and understanding.  
   
@@ -66,7 +66,7 @@ redirect_from:
 
 * Echoes in Space - Introduction to Radar Remote Sensing, ESA Academy, *11 July 2022*.
 
-* UNIVERSEH Startech training, an entrepreneurship training program based on the use of Earth Observation data, University of Touluse, France, *4 - 8 October 2021*.
+* UNIVERSEH Startech, an entrepreneurship training program based on the use of Earth Observation data, University of Touluse, France, *4 - 8 October 2021*.
 
 ### Honors & awards 
 
@@ -76,5 +76,5 @@ redirect_from:
 ### Mentoring 
 
 * Space4Women Mentorship Program, **United Nations Office for Outer Space Affairs**, *2023*.
-  * Selected as a mentee for the 2023 Space4Women Mentorship Program, an initiative of UNOOSA that aims to promote access to space, STEM education, and networking opportunities for women/gender minorities worldwide.
+  * Selected as a mentee for the 2023 Space4Women Mentorship Program, an initiative of UNOOSA to promote access to space, STEM education, and networking opportunities for women/gender minorities worldwide.
 
