@@ -33,10 +33,10 @@ redirect_from:
   
 ### Skills
 
-* Qualitative and quantitative research
 * Data science
+* Research
 * Data visualization
-* Business development and market research
+* Business development
 * Project management
   * Stakeholders engagement
   * Strategic partnerships
