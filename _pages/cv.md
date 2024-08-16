@@ -21,9 +21,9 @@ redirect_from:
 * **European Space Agency**, Advanced Concepts Team HQ, *September 2024 - Present*
 
 * **Atlantic International Research Centre**, Earth Observation Project Developer, *August 2022 - August 2024*
-  * Develop workflows and early prototypes for processing, analyzing and visualizing satellite and IoT datasets.
-  * Perform outreach, disseminate project results, and engage with key stakeholders and end users.
-  * Serve on the organizing committee of the JuliaEO - Global Workshop on Earth Observation with Julia.
+  * Developed workflows and early prototypes for processing, analyzing and visualizing satellite and IoT datasets.
+  * Performed outreach, disseminate project results, and engage with key stakeholders and end users.
+  * Served on the organizing committee of the JuliaEO - Global Workshop on Earth Observation with Julia.
 
 * **Institute of Meteorology and Water Management (IMGW-PIB)**, Intern in the Remote Sensing Centre, *September 2021*
   * Worked on the algorithm for detecting flooded areas and ice in rivers using SAR data.
