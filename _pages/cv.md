@@ -18,7 +18,7 @@ redirect_from:
 
 ### Work experience
 
-* **European Space Agency**, Advanced Concepts Team HQ, *September 2024 - Present*
+* **European Space Agency (HQ)**, Space Innovation Engineer, *September 2024 - Present*
 
 * **Atlantic International Research Centre**, Earth Observation Project Developer, *August 2022 - August 2024*
   * Developed workflows and early prototypes for processing, analyzing and visualizing satellite and IoT datasets.
@@ -28,7 +28,7 @@ redirect_from:
 * **Institute of Meteorology and Water Management (IMGW-PIB)**, Intern in the Remote Sensing Centre, *September 2021*
   * Worked on the algorithm for detecting flooded areas and ice in rivers using SAR data.
 
-* **European Space Agency**, Intern in the Future Systems Department, *February - July 2021*
+* **European Space Agency (ESRIN)**, Intern in the Future Systems Department, *February - July 2021*
   * Conducted a socio-economic analysis of the Earth Observation market.
   * Investigated the main users and usages of Copernicus Sentinels data products and future products from high-priority candidate missions.
   * Developed a comprehensive database of over 300 relevant value-added products, including interactive data visualizations and a report that allowed for enhanced analysis and understanding.  
