@@ -80,3 +80,7 @@ redirect_from:
 * Space4Women Mentorship Program, **United Nations Office for Outer Space Affairs**, *2023*.
   * Selected as a mentee for the 2023 Space4Women Mentorship Program, an initiative of UNOOSA to promote access to space, STEM education, and networking opportunities for women/gender minorities worldwide.
 
+### Volunteering 
+
+* Teaching Volunteer, **Skype a Scientist**, *2024*.
+  * Increase awareness of Earth observation and STEM among fifth graders in Dayton, USA.

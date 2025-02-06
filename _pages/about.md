@@ -20,6 +20,7 @@ I tend to focus on topics related to satellite sensors, the environment, and cod
 
 * Earth Observation 
 * Artificial Intelligence
+* Large Language Models
 * Signal Processing 
 * Computer Vision 
 * Climate
